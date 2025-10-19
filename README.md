@@ -57,7 +57,7 @@ I am currently a backend developer and use the Python language and frameworks su
 
 ## Contacts:
 
-<div> <a href = "mailto:sleomorais10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div> <a href = "mailto:devleomorais10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/leonardo-morais-061948186" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>&nbsp;&nbsp;
  
